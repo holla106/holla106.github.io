@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>樂理 on holla blog...</title><link>https://holla106.github.io/zh/tags/%E6%A8%82%E7%90%86/</link><description>Recent content in 樂理 on holla blog...</description><generator>Hugo</generator><language>zh-tw</language><lastBuildDate>Tue, 23 Sep 2025 15:15:00 +0800</lastBuildDate><atom:link href="https://holla106.github.io/zh/tags/%E6%A8%82%E7%90%86/index.xml" rel="self" type="application/rss+xml"/><item><title>音階(scale)的筆記</title><link>https://holla106.github.io/zh/posts/music-scale/</link><pubDate>Tue, 23 Sep 2025 15:15:00 +0800</pubDate><guid>https://holla106.github.io/zh/posts/music-scale/</guid><description>&lt;p&gt;我打這篇是因為我常常記不住&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>樂理 on holla blog...</title><link>https://holla106.github.io/zh/tags/%E6%A8%82%E7%90%86/</link><description>Recent content in 樂理 on holla blog...</description><generator>Hugo</generator><language>zh-tw</language><lastBuildDate>Thu, 23 Oct 2025 17:44:00 +0800</lastBuildDate><atom:link href="https://holla106.github.io/zh/tags/%E6%A8%82%E7%90%86/index.xml" rel="self" type="application/rss+xml"/><item><title>和弦的筆記</title><link>https://holla106.github.io/zh/posts/chords/</link><pubDate>Thu, 23 Oct 2025 17:44:00 +0800</pubDate><guid>https://holla106.github.io/zh/posts/chords/</guid><description>&lt;h2 id="什麼是和弦"&gt;什麼是和弦?&lt;/h2&gt;
+&lt;p&gt;和弦(chord)是幾個音堆疊的組合，通常是三個音或以上 \&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3 個音的堆疊組合叫 3和弦 (triad) \&lt;/li&gt;
+&lt;li&gt;4 個音叫 7和弦 (seventh) \&lt;/li&gt;
+&lt;li&gt;5 個音叫 9和弦 \&lt;/li&gt;
+&lt;li&gt;6 個音叫 11和弦 \&lt;/li&gt;
+&lt;li&gt;最後，7 個音是 13和弦 \&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="常見的和弦"&gt;常見的和弦&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;大和弦 (major)&lt;/li&gt;
+&lt;li&gt;小和弦 (minor)&lt;/li&gt;
+&lt;li&gt;屬和弦 (dominant)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="怎樣找到這些和弦"&gt;怎樣找到這些和弦?&lt;/h2&gt;
+&lt;p&gt;比如現在要寫一個 C 的大7和弦 (Cmaj7) &lt;br&gt;
+只要把大調音階由根音開始的 1, 3, 5, 7 音寫出來就是一個 大7和弦 了 &lt;br&gt;
+那 小7和弦 呢？ &lt;br&gt;
+得到一個 大7和弦 之後, 你再把第 3 音跟第 7 音降半音，就是一個 小7和弦 了 &lt;br&gt;
+最後 屬和弦 是只有第 7 音降半音 \&lt;/p&gt;
+&lt;p&gt;看以下圖表再清楚一點：&lt;/p&gt;
+&lt;pre tabindex="0"&gt;&lt;code&gt;大和弦：1 3 5 7
+小和弦：1 b3 5 b7
+屬和弦：1 3 5 b7
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;如果要把這三種和弦都變成 13 和弦 &lt;br&gt;
+只要在它們上面再加上大調音階的第 9, 11, 13 音就可以了 &lt;br&gt;
+不管是哪一種和弦，上面加的 9, 11, 13 音都是一樣的&lt;/p&gt;</description></item><item><title>音階(scale)的筆記</title><link>https://holla106.github.io/zh/posts/music-scale/</link><pubDate>Tue, 23 Sep 2025 15:15:00 +0800</pubDate><guid>https://holla106.github.io/zh/posts/music-scale/</guid><description>&lt;p&gt;我打這篇是因為我常常記不住&lt;/p&gt;</description></item></channel></rss>
